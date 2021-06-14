@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shruti Poojary
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects related to the same
+- 💞️ I’m looking to collaborate on projects data science
 - 📫 You can reach me at poojaryshruti27@gmail.com
 
 <!---
