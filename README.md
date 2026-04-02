@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Shruti Poojary
-- 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects data science
+- 👀 I’m interested in data analysis
 - 📫 You can reach me at poojaryshruti27@gmail.com
 
 <!---
